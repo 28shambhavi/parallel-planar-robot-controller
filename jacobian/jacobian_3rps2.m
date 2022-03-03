@@ -1,3 +1,4 @@
+%main file
 %specifying coordinates of the base for b=1
 %length of side = b * root of 3
 clear
